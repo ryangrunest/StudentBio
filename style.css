@@ -1,13 +1,24 @@
-h1 {
+.headers {
+	padding-top: 20px;
+	padding-bottom: 20px;
 }
 img {
 	width: 200px;
 	height: auto;
 }
 body {
+	background-color: #95d5d6;
+	color: white;
 	text-align: center;
 	font-family: 'Work Sans', sans-serif;
 }
 li	{
 	text-align: left;
+}
+.container {
+	max-width: 30%;
+	text-align: center;
+}
+p {
+	padding: 15% 0%;
 }
